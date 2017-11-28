@@ -1,0 +1,71 @@
+body{
+	background-color: black;
+	margin: 0 auto;
+	width: 700px;
+	height: 100%;
+}
+button{
+	background-color: black;
+	margin: 0;
+	border: none;
+	color: yellow;
+	font-family: Chiller;
+	font-size: 100px;	
+	outline: none;	
+}
+input{
+	background-color: black;
+	margin: 0;
+	margin-top: 15px;
+	border: none;
+	color: yellow;
+	font-family: Chiller;
+	font-size: 100px;
+}
+p{
+    width: 750px;
+    height: 100px;
+	margin: 0;
+	color: yellow;
+	font-family: Chiller;
+	font-size: 100px;
+	margin-top: 20px;    
+}
+/*@keyframes example {
+    0%   {opacity:0}
+    10%  {opacity:0.1}
+    20%  {opacity:0.2}
+    30% {opacity:0.3}
+    40% {opacity:0.4}
+    50% {opacity:0.5}
+    60% {opacity:0.6}
+    70% {opacity:0.7}
+    80% {opacity:0.8}
+    90% {opacity:0.9}
+/*    100% {opacity:0.10}                        
+}*/
+article{
+
+}
+#hello{
+	margin: 0;
+	height: 200px;
+	color: yellow;
+	font-size: 200px;
+	font-family: Chiller;
+	display: block;
+	text-align: center;
+	cursor: pointer;
+
+}
+#haha{
+	margin: 0;
+	color: yellow;
+	font-family: Chiller;
+	font-size: 100px;
+	
+}
+#img{
+	height: 750px;
+	width: 650px;
+}
